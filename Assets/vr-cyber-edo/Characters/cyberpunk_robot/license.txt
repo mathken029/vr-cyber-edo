@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk Robot
+* source:	https://sketchfab.com/3d-models/cyberpunk-robot-ba1ec97caa9645b788b0e605c0295796
+* author:	Tomas Anglim (https://sketchfab.com/tomas.anglim.811)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk Robot" (https://sketchfab.com/3d-models/cyberpunk-robot-ba1ec97caa9645b788b0e605c0295796) by Tomas Anglim (https://sketchfab.com/tomas.anglim.811) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
